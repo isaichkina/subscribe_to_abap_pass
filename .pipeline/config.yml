@@ -6,7 +6,7 @@ steps:
     cfOrg: '932f74detrial'
     cfSpace: 'dev'
     cfServiceInstance: 'H02_Q_system'
-    cfService: 'abap'
+    cfService: 'abap-trial'
     cfServicePlan: 'standard'
     abapSystemAdminEmail: 'sviatlana_isaichkina@epam.com'
     abapSystemDescription: 'ABAP Environment Q System'
