@@ -2,7 +2,7 @@ steps:
   abapEnvironmentCreateSystem:
     cfCredentialsId: 'CF_CREDENTIALSID'
     cfApiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com/'
-    cfOrg: 'cfOrg'
+    cfOrg: '932f74detrial'
     cfSpace: 'cfSpace'
     cfServiceInstance: 'H02_Q_system'
     cfService: 'abap'
