@@ -2,4 +2,4 @@
 create-services:
 - name:   "H02_Q_system"
   broker: "abap"
-  parameters: "{ \"admin_email\" : \"epam.sap.poc.btp.trial.1@gmail.com\", \"description\" : \"ABAP Environment Q System\", \"is_development_allowed\" : true, \"sapsystemname\" : \"H02\", \"size_of_persistence\" : 4, \"size_of_runtime\" : 1 }"
+  parameters: "{ \"admin_email\" : \"sviatlana_isaichkina@epam.com\", \"description\" : \"ABAP Environment Q System\", \"is_development_allowed\" : true, \"sapsystemname\" : \"H02\", \"size_of_persistence\" : 4, \"size_of_runtime\" : 1 }"
