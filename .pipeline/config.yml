@@ -12,4 +12,4 @@ steps:
     abapSystemIsDevelopmentAllowed: true
     abapSystemID: 'H02'
     abapSystemSizeOfPersistence: 4
-    abapSystemSizeOfRuntime: 1
+    abapSystemSizeOfRuntime: 1 
