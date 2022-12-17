@@ -1,6 +1,6 @@
 steps:
   abapEnvironmentCreateSystem:
-    cfCredentialsId: 'cfCredentialsId'
+    cfCredentialsId: 'CF_CREDENTIALSID'
     cfApiEndpoint: 'https://test.server.com'
     cfOrg: 'cfOrg'
     cfSpace: 'cfSpace'
