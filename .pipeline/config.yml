@@ -1,3 +1,4 @@
+general:
 steps:
   abapEnvironmentCreateSystem:
     cfCredentialsId: 'CF_CREDENTIALSID'
