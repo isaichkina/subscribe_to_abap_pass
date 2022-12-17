@@ -1,7 +1,7 @@
 steps:
   abapEnvironmentCreateSystem:
     cfCredentialsId: 'CF_CREDENTIALSID'
-    cfApiEndpoint: 'https://api.cf.sap.hana.ondemand.com'
+    cfApiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com/'
     cfOrg: 'cfOrg'
     cfSpace: 'cfSpace'
     cfServiceInstance: 'H02_Q_system'
