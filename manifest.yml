@@ -1,6 +1,6 @@
 ---
 create-services:
 - name:   "H02_Q_system"
-  broker: "abap"
-  plan:   "standard"
+  broker: "abap-trial"
+  plan:   "shared"
   parameters: "{ \"admin_email\" : \"sviatlana_isaichkina@epam.com\", \"description\" : \"ABAP Environment Q System\", \"is_development_allowed\" : true, \"sapsystemname\" : \"H02\", \"size_of_persistence\" : 4, \"size_of_runtime\" : 1 }"
