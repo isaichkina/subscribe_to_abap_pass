@@ -4,6 +4,7 @@ steps:
     cfCredentialsId: 'CF_CREDENTIALSID'
     cfApiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com/'
     cfOrg: '932f74detrial'
+    cfSpace: 'dev',
     cfServiceInstance: 'H02_Q_system'
     cfService: 'abap'
     cfServicePlan: 'standard'
