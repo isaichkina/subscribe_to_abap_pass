@@ -1,12 +1,11 @@
 steps:
   abapEnvironmentCreateSystem:
     cfCredentialsId: 'CF_CREDENTIAL_EPAM'
-    cfApiEndpoint: 'https://test.server.com'
-    cfOrg: 'cfOrg'
+    cfApiEndpoint: 'https://api.cf.sap.hana.ondemand.com'
+    cfOrg: 'ee8498eatrial'
     cfSpace: 'cfSpace'
     cfServiceInstance: 'H02_Q_system'
     cfService: 'abap'
-    cfServicePlan: 'standard'
     abapSystemAdminEmail: 'epam.sap.poc.btp.trial.1@gmail.com'
     abapSystemDescription: 'ABAP Environment Q System'
     abapSystemIsDevelopmentAllowed: true
