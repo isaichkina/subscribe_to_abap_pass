@@ -6,7 +6,7 @@ steps:
     cfSpace: 'cfSpace'
     cfServiceInstance: 'H02_Q_system'
     cfService: 'abap'
-    abapSystemAdminEmail: 'epam.sap.poc.btp.trial.1@gmail.com'
+    abapSystemAdminEmail: 'sviatlana_isaichkina@epam.com'
     abapSystemDescription: 'ABAP Environment Q System'
     abapSystemIsDevelopmentAllowed: true
     abapSystemID: 'H02'
