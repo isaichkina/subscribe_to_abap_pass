@@ -1,0 +1,15 @@
+steps:
+  abapEnvironmentCreateSystem:
+    cfCredentialsId: 'cfCredentialsId'
+    cfApiEndpoint: 'https://test.server.com'
+    cfOrg: 'cfOrg'
+    cfSpace: 'cfSpace'
+    cfServiceInstance: 'H02_Q_system'
+    cfService: 'abap'
+    cfServicePlan: 'standard'
+    abapSystemAdminEmail: 'sviatlana_isaichkina@epam.com'
+    abapSystemDescription: 'ABAP Environment Q System'
+    abapSystemIsDevelopmentAllowed: true
+    abapSystemID: 'H02'
+    abapSystemSizeOfPersistence: 4
+    abapSystemSizeOfRuntime: 1
