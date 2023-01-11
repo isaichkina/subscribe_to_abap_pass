@@ -1,13 +1,13 @@
 general:
 steps:
   abapEnvironmentCreateSystem:
-    cfCredentialsId: 'CF_CREDENTIALSID'
-    cfApiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com/'
-    cfOrg: '932f74detrial'
-    cfSpace: 'dev'
+    cfCredentialsId: 'CF_CREDENTIAL_EPAM'
+    cfApiEndpoint: 'https://api.cf.eu10.hana.ondemand.com/'
+    cfOrg: 'abapenv-tst-org'
+    cfSpace: 'abap-dev'
     cfServiceInstance: 'H02_Q_system'
-    cfService: 'abap-trial'
-    cfServicePlan: 'shared'
+    cfService: 'abap'
+    cfServicePlan: 'standard'
     abapSystemAdminEmail: 'sviatlana_isaichkina@epam.com'
     abapSystemDescription: 'ABAP Environment Q System'
     abapSystemIsDevelopmentAllowed: true
