@@ -5,7 +5,7 @@ steps:
     cfApiEndpoint: 'https://api.cf.eu10.hana.ondemand.com/'
     cfOrg: 'abapenv-tst-org'
     cfSpace: 'abap-dev'
-    cfServiceInstance: 'H02_Q_system'
+    cfServiceInstance: 'abapEnvironmentPipeline'
     cfService: 'abap'
     cfServicePlan: 'standard'
     abapSystemAdminEmail: 'sviatlana_isaichkina@epam.com'
