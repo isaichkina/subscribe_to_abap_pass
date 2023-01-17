@@ -6,6 +6,5 @@ steps:
         cfSpace: 'abap-dev'
         cfServiceInstance: 'abapenv-tst-inst'
         cfServiceKeyName: 'key'
-        cfServiceKeyConfig: '{"example":"value","example":"value"}'
         cfCredentialsId: 'CF_CREDENTIAL_EPAM'
 
