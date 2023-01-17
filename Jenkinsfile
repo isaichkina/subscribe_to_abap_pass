@@ -1,4 +1,3 @@
-@Library('piper-lib-os') _
   
 cloudFoundryCreateServiceKey(
   cfApiEndpoint: 'https://api.cf.eu10.hana.ondemand.com/',
