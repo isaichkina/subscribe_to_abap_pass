@@ -1,3 +1,6 @@
+@Library('piper-lib-os') _
+
+node() {
   
 cloudFoundryCreateServiceKey(
   cfApiEndpoint: 'https://api.cf.eu10.hana.ondemand.com/',
@@ -10,6 +13,7 @@ cloudFoundryCreateServiceKey(
   script: this,
 )
 
+}
 
 
 
