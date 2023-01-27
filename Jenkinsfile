@@ -10,7 +10,8 @@ node() {
   repository: 'ZRAP_PRODUCT',
   remoteRepositoryURL: 'https://github.com/epamSAPPoC/ZRAP_PRODUCT',
   role: 'SOURCE',
-  vSID: 'ABC'
+  vSID: 'ABC',
+  verbose: true
   )
   
   }
