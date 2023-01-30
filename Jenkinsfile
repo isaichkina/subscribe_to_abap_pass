@@ -4,7 +4,7 @@ node() {
   
   gctsCreateRepository(
   script: this,
-  host: 'https://0ea87760-1690-49f9-ba30-b68f2ea2ec95.abap-web.eu10.hana.ondemand.com:443',
+  host: 'https://6b4e48a2-74ff-4575-8621-1538be5aeb5e.abap-web.eu10.hana.ondemand.com:443',
   client: '100',
   abapCredentialsId: 'ABAP_CP_OAUTH_TST',
   repository: 'ZRAP_PRODUCT',
