@@ -2,7 +2,7 @@
 
 node() {
   
-  gctsCreateRepository(
+  gctsCloneRepository(
   script: this,
   host: 'https://6b4e48a2-74ff-4575-8621-1538be5aeb5e.abap-web.eu10.hana.ondemand.com:443',
   client: '100',
