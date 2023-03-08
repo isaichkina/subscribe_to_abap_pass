@@ -11,7 +11,7 @@ abapEnvironmentCloneGitRepo (
   cfOrg: 'abapenv-tst-org',
   cfSpace: 'abap-dev',
   cfServiceInstance: 'abapenv-tst-inst',
-  cfServiceKeyName: 'key'
+  cfServiceKeyName: 'key2'
 )
 
 }
