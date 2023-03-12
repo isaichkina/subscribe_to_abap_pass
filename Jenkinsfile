@@ -10,7 +10,7 @@ abapEnvironmentCloneGitRepo (
   cfApiEndpoint: 'https://api.cf.eu10.hana.ondemand.com/',
   cfOrg: 'abapenv-tst-org',
   cfSpace: 'abap-dev',
-  cfServiceInstance: 'abapenv-tst-inst',
+  cfServiceInstance: 'abapenv1',
   cfServiceKeyName: 'key2'
 )
 
